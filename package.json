@@ -1,0 +1,27 @@
+{
+  "name": "promisql",
+  "version": "0.0.0",
+  "description": "A promise-based SQL driver for Node, inspired by Python's SQLAlchemy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive tests/unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalieWolfe/node-promisql.git"
+  },
+  "keywords": [
+    "promise",
+    "sql",
+    "sqlalchemy",
+    "alchemy",
+    "sql driver",
+    "driver"
+  ],
+  "author": "Natalie Wolfe <natalie@lifewanted.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NatalieWolfe/node-promisql/issues"
+  },
+  "homepage": "https://github.com/NatalieWolfe/node-promisql#readme"
+}
